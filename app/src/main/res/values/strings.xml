@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Actividad 5.1</string>
+
+    <string name="label_categoria">Categoría</string>
+    <string name="label_fecha">Fecha</string>
+    <string name="label_hora">Hora</string>
+    <string name="hint_descripcion">Descripción (ej. Reunión con equipo)</string>
+    <string name="cd_pick_fecha">Elegir fecha</string>
+    <string name="cd_pick_hora">Elegir hora</string>
+    <string name="cd_agregar">Agregar elemento</string>
+    <string name="cd_limpiar">Limpiar lista</string>
+
+    <string-array name="categorias">
+        <item>Trabajo</item>
+        <item>Estudio</item>
+        <item>Personal</item>
+        <item>Salud</item>
+    </string-array>
 </resources>
